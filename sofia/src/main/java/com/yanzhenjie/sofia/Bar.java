@@ -22,6 +22,9 @@ import android.view.View;
  * Created by YanZhenjie on 2017/12/13.
  */
 public interface Bar {
+    Bar navigationBarLightFont();
+
+    Bar navigationBarDarkFont();
 
     Bar statusBarDarkFont();
 
