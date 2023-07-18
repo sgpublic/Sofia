@@ -20,7 +20,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.yanzhenjie.sofia.StatusView
+    <io.github.sgpublic.sofiax.StatusView
         android:id="@+id/status_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
